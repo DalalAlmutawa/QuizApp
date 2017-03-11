@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">اخبار قصير</string>
+    <string name="Q1">كم عدد الاشخاص بالصورة</string>
+    <string name="Five">٥</string>
+    <string name="Playing">"يلعبون "</string>
+    <string name="Q2">اختر جميع الا\nا</string>
+    <string name="Seven">٧</string>
+    <string name="Six">٦</string>
+    <string name="Submit">تسليم</string>
+    <string name="TheyDo">"ما ذا يفعلون "</string>
+    <string name="ThreeMen">ثلاثة رجال</string>
+    <string name="ThreeWomen">ثلاثة نساء</string>
+    <string name="TwoMen">رجلان</string>
+    <string name="Working">يعملون</string>
+    <string name="FourWomen">اربع نساء</string>
+    <string name="name">ادخل اسمك</string>
+    <string name="Yes">نعم</string>
+    <string name="No">لا</string>
+    <string name="Q4">هل في الصورة نبتة</string>
+</resources>

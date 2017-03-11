@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">"Quiz App  "</string>
+    <string name="name">"Enter your name"</string>
+
+    <string name="Q1"> Q1 \ How many people in the picture</string>
+    <string name="Five">5</string>
+    <string name="Six">6</string>
+    <string name="Seven">7</string>
+    <string name="Q2">In the picture</string>
+    <string name="ThreeWomen">Three Women </string>
+    <string name="TwoMen">Two men </string>
+    <string name="FourWomen"> Four Women </string>
+    <string name="TheyDo">Q3 \ What would you think they are doing </string>
+    <string name="Playing">Playing</string>
+    <string name="Working">Working</string>
+    <string name="Submit">Submit</string>
+    <string name="ThreeMen">Three Women</string>
+    <string name="Q4">Q4 \Is there a plant in the picture</string>
+    <string name="Yes">Yes </string>
+    <string name="No">No</string>
+    <string name="Q5"> What color pen next to a laptop</string>
+
+
+</resources>
